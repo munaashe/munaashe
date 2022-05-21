@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @munaashe
 - 👀 I’m interested in frontend dev, mobile and web apps. React, React Native, Javascript, obviously HTML and CSS, Next.js, frameworks such as Gatsby, GraphQL and GraphCMS etc etc. Got some interests in blockchain too
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m a blockchain enthusiast, a novice in Solidity.
 - 💞️ I’m looking to collaborate on anything that's got to do with frontend dev, mobile apps and web apps, and blockchain too.
 - 📫 Get hold of me via mail at denis.siduna@gmail.com or twitter/facebook, my username on both sites is @munaashe as well
 
